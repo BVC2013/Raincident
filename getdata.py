@@ -1,3 +1,12 @@
+# Rainfall Project
+# Bhav, Devan, Dhruva, Sid
+# CMP131
+# 12/18/2024
+# Mrs. Arakelian
+
+
+
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
